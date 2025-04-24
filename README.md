@@ -1,4 +1,5 @@
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/55c0af97-06ff-4e3f-a710-d4228d572e41)
+
 
 # 🏘️ Real Estate Price Prediction
 
@@ -17,13 +18,9 @@ Below is the process we can follow for real estate price prediction to help indi
 
 ## 📂 Project Structure
 
-```
-Real Estate Price Prediction/
-│
-├── [Real Estate Price Prediction.ipynb](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/Real%20Estate%20Price%20Prediction.ipynb)  # Main notebook with code and analysis
-├── README.md                          # Project overview and instructions
-└── [requirements.txt](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/requirements.txt)                   # Python dependencies
-```
+ - [Real Estate Price Prediction.ipynb](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/Real%20Estate%20Price%20Prediction.ipynb)  # Main notebook with code and analysis
+ - [README.md]                          # Project overview and instructions
+ - [requirements.txt](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/requirements.txt)                   # Python dependencies
 
 ## 🚀 Features
 
@@ -78,6 +75,6 @@ The dataset used for this project includes:
 
 For any questions or feedback, feel free to reach out to:
 
-**Jaykumar Tamkhane**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile]
+**Jay Tamkhane**  
+- 📧 [EMAIL](jaytamkhane161@gmail.com)
+- 🔗 [Linkedin](www.linkedin.com/in/jay-tamkhane)
