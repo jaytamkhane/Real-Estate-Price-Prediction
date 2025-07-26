@@ -18,7 +18,7 @@ Below is the process we can follow for real estate price prediction to help indi
 
 ## 📂 Project Structure
 
-```bash -[Real_Estate.csv](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/Real_Estate.csv)             # Data file in csv
+ - [Real_Estate.csv](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/Real_Estate.csv)             # Data file in csv
  - [Real Estate Price Prediction.ipynb](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/Real%20Estate%20Price%20Prediction.ipynb)  # Main notebook with code and analysis
  - [README.md](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/README.md)                         # Project overview and instructions
  - [requirements.txt](https://github.com/jaytamkhane/Real-Estate-Price-Prediction/blob/main/requirements.txt)                   # Python dependencies
